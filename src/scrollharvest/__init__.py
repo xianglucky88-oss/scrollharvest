@@ -1,1 +1,1 @@
-"""scrollharvest baseline (single-responsibility pipeline)."""
+"""scrollharvest package (single-responsibility pipeline)."""
